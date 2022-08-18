@@ -6,7 +6,7 @@ An unofficial [dockerfile](https://docs.docker.com/engine/reference/builder/) fo
 
 ```bash
 # build docker image
-docker build -t stencil https://raw.githubusercontent.com/aglensmith/docker-stencil-cli/master/dockerfile.v2
+docker build -t stencil https://raw.githubusercontent.com/pcfco/docker-stencil-cli/master/dockerfile.v2
 ```
 
 ## Run
