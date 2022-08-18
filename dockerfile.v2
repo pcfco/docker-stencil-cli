@@ -1,7 +1,7 @@
 # dockerfile.v2 - electric boogaloo
 
 # use official node parent image
-FROM node:12
+FROM node:14
 
 # set container working directory
 WORKDIR /theme
